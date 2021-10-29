@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "MEAN app with websocket functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nazichok/chat.git"
+  },
+  "author": "Nazar Dizhak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nazichok/chat/issues"
+  },
+  "homepage": "https://github.com/Nazichok/chat#readme"
+}
